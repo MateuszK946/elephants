@@ -5,13 +5,10 @@ rzędzie, gdyż zgodnie z zarządzeniem dyrektora zoo taka powinna być początk
 Niestety, na miejsce przybył sam dyrektor i zupełnie nie spodobała mu się wybrana
 przez pracowników kolejność słoni. Dyrektor zaproponował kolejność, w której według niego
 zwierzęta będą się najlepiej prezentować, i wydał pracownikom polecenie poprzestawiania słoni
-zgodnie z tą propozycją.
-Aby uniknąć nadmiernego chaosu tuż przed paradą, pracownicy postanowili przestawiać
+zgodnie z tą propozycją. Aby uniknąć nadmiernego chaosu tuż przed paradą, pracownicy postanowili przestawiać
 słonie, zamieniając miejscami kolejno pewne pary słoni. Przestawiane zwierzęta nie muszą
-
 sąsiadować ze sobą w rzędzie. Wysiłek potrzebny do nakłonienia słonia do ruszenia się z miej-
 sca jest wprost proporcjonalny do jego masy, a zatem wysiłek związany z zamianą miejscami
-
 dwóch słoni o masach m1 oraz m2 można oszacować przez m1 + m2. Jakim minimalnym wy-
 siłkiem pracownicy mogą poprzestawiać słonie tak, aby usatysfakcjonować dyrektora?
 
